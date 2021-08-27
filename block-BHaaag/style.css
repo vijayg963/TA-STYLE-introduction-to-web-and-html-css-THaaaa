@@ -1,0 +1,29 @@
+body{
+    background-color: #22396A;
+    color:white;
+    margin-left: 30px;
+    margin-right: 50px;
+
+}
+h2{
+    color: green;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 15px;
+    margin-left: 5px;
+}
+a{
+    font-size: 18px;
+    color: red;
+    padding-bottom: 50px;
+}
+footer{
+    margin-bottom: 50px;
+    padding: 50px;
+}
+p{
+    font-size: 18px;
+}
